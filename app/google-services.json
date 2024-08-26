@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419832583931",
+    "project_id": "geoloactiontracker",
+    "storage_bucket": "geoloactiontracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419832583931:android:daab9cd40e110f3fd3c25e",
+        "android_client_info": {
+          "package_name": "com.example.d4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419832583931-cu23sdamkt7vrs4dq51716ts9e00moq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJLkroa79FlafOdy2FkNnsLu_FTkW_tg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419832583931-cu23sdamkt7vrs4dq51716ts9e00moq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

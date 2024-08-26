@@ -1,0 +1,7 @@
+<resources>
+    <!-- Add custom styles here -->
+    <!-- Example of a custom style -->
+    <style name="CustomTextStyle">
+        <item name="android:textColor">@color/teal_200</item>
+    </style>
+</resources>
